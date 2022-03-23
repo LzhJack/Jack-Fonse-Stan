@@ -35,9 +35,9 @@ remote_theme: just-the-docs/just-the-docs
 ### Local installation: Use the gem-based theme
 
 1. Install the Ruby Gem
-  ```bash
-  $ gem install just-the-docs
-  ```
+  >bash
+  >$ gem install just-the-docs
+  
   ```yaml
   # .. or add it to your your Jekyll site’s Gemfile
   gem "just-the-docs"
