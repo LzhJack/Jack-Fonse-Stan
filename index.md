@@ -22,19 +22,18 @@ Welcome! This document will guide you on how to use Adobe Photoshop for creating
 
 Adobe Photoshop is a photo editing software made by Adobe. It provides users with many tools to create and edit images easily. This software is widely used by artists, designers, and developers making it the standard software to use for any graphic design.
 
-### Intended User
+### Intended Users
 
 The documentation is targeted toward the following users:
-* BCIT students who have no experience in Adobe Photoshop but want to start learning basic functions in the software.
+* Novice digital artists, graphic designers, or photo editors.
+* Software developers who want to make custom design elements.
 
+### Prerequisites
 
-### Quick start: Use as a GitHub Pages remote theme
+To successfully complete the steps provided, you will need the following:
+* A general understanding of basic computer tasks.
+* An internet connection to access required software.
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-
-```yaml
-remote_theme: just-the-docs/just-the-docs
-```
 
 <small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
 
