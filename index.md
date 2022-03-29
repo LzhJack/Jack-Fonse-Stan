@@ -25,7 +25,7 @@ Adobe Photoshop is a photo editing software made by Adobe. It provides users wit
 ### Intended User
 
 The documentation is targeted toward the following users:
-*BCIT students who have no experience in Adobe Photoshop but want to start learning basic functions in the software.
+* BCIT students who have no experience in Adobe Photoshop but want to start learning basic functions in the software.
 
 
 ### Quick start: Use as a GitHub Pages remote theme
