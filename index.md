@@ -19,7 +19,7 @@ Adobe Photoshop is a photo editing software made by Adobe. It provides users wit
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
+TOC
 {:toc}
 
 ---
