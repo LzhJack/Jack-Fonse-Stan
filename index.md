@@ -71,10 +71,9 @@ The essential sections of the documentation will teach you:
 
 The documentation will use the following symbols, and message blocks to alert the user with relevant information. Shown below are the symbols, and message blocks from most important to least:
 
-| **Danger**|
+| **<span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-000">Dangers</span>**|
 |:-----------------|
 | Actions that may cause an error or result in the application crashing.|
-{: .bg-red-200}
 
 > ☠️ **Danger**
 > 
