@@ -25,7 +25,7 @@ Adobe Photoshop is a photo editing software made by Adobe. It provides users wit
 ---
 
 
-### Intended Users
+## Intended Users
 
 The documentation is targeted toward the following users:
 * Novice digital artists, graphic designers, or photo editors.
@@ -33,7 +33,7 @@ The documentation is targeted toward the following users:
 
 ---
 
-### Prerequisites
+## Prerequisites
 
 To successfully complete the steps provided, you will need the following:
 * A general understanding of basic computer tasks.
@@ -41,7 +41,7 @@ To successfully complete the steps provided, you will need the following:
 
 ---
 
-### Software Requirement(s)
+## Software Requirement(s)
 
 Before proceeding with the guide, ensure you have installed the following:
 * [**Windows 10 Operating System**](https://www.microsoft.com/en-ca/windows/get-windows-10)
@@ -49,7 +49,7 @@ Before proceeding with the guide, ensure you have installed the following:
 
 ---
 
-### Procedures Overview
+## Procedures Overview
 
 The essential sections of the documentation will teach you:
 * [**How to remove an unwanted background from an image**](/placeholderlink)
@@ -58,7 +58,7 @@ The essential sections of the documentation will teach you:
 
 ---
 
-### Typographical Conventions
+## Typographical Conventions
 
 1. Filenames, and paths will be denoted as shown in the example: _`filename.psd`_
 2. Keystrokes, and mouseclicks will appear similar to the example: <kbd>Ctrl</kbd> + <kbd>S</kbd>
@@ -67,7 +67,7 @@ The essential sections of the documentation will teach you:
 
 ---
 
-### Notes and Warning Messages
+## Notes and Warning Messages
 
 The documentation will use the following symbols, and message blocks to alert the user with relevant information. Shown below are the symbols, and message blocks from most important to least:
 
