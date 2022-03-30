@@ -34,11 +34,22 @@ To successfully complete the steps provided, you will need the following:
 * A general understanding of basic computer tasks.
 * An internet connection to access required software.
 
-### Software Requirement(s):
+### Software Requirement(s)
 
 Before proceeding with the guide, ensure you have installed the following:
-* [**Windows 10 Operating System**](https://www.microsoft.com/en-ca/software-download/windows10)
+* [**Windows 10 Operating System**](https://www.microsoft.com/en-ca/windows/get-windows-10)
 * [**Adobe Photoshop Pro 2021 _(Version 23.2.2 or later)_**](https://www.adobe.com/ca/products/photoshop.html)
+
+### Procedures Overview
+
+The essential sections of the documentation will teach you:
+* [**How to remove an unwanted background from an image**](/placeholderlink)
+* [**To apply filters, and effects to an existing image**](/placeholderlink)
+* [**Animating a graphic image into a GIF (Graphics Interchange Format)**](/placeholderlink)
+
+### Typographical Conventions
+
+1. Filenames, and paths will be denoted as: <mark>_filename.psd_</mark>
 
 
 
