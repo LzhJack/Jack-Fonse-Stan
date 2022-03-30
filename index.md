@@ -37,8 +37,8 @@ To successfully complete the steps provided, you will need the following:
 ### Software Requirement(s):
 
 Before proceeding with the guide, ensure you have installed the following:
-* [**Windows 10 Operating System**][https://www.microsoft.com/en-ca/windows/get-windows-10]
-* [**Adobe Photoshop Pro 2021 _(Version 23.2.2 or later)_**][https://www.adobe.com/ca/products/photoshop.html]
+* [**Windows 10 Operating System**](https://www.microsoft.com/en-ca/windows/get-windows-10)
+* [**Adobe Photoshop Pro 2021 _(Version 23.2.2 or later)_**](https://www.adobe.com/ca/products/photoshop.html)
 
 
 
