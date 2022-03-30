@@ -71,7 +71,7 @@ The essential sections of the documentation will teach you:
 
 The documentation will use the following symbols, and message blocks to alert the user with relevant information. Shown below are the symbols, and message blocks from most important to least:
 
-> <div style = "background-color:maroon; color: white">☠️<b>Danger</b></div>
+> <div style = "background-color:#CC0000; color: white">☠️<b>Danger</b></div>
 > 
 > Actions that may cause an error or result in the application crashing.
 
