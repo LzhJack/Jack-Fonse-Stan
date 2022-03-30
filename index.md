@@ -6,11 +6,20 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Introduction
+# **Introduction**
 
 Welcome! This document will guide you on how to use Adobe Photoshop for creating and editing images. The aim of this guide is to provide users with the Photoshop skills that can help in the development of video games and websites.
 
 Adobe Photoshop is a photo editing software made by Adobe. It provides users with many tools to create and edit images easily. This software is widely used by artists, designers, and developers making it the standard software to use for any graphic design.
+
+---
+####TABLE OF CONTENTS
+* [Intended Users](/placeholderlink)
+* [Prerequisites](/placeholderlink)
+* [Software Requirement(s)](/placeholderlink)
+* [Procedures Overview](/placeholderlink)
+* [Typographical Conventions](/placeholderlink)
+* [Notes and Warning Messages](/placeholderlink)
 
 ---
 
@@ -79,6 +88,6 @@ The documentation will use the following symbols, and message blocks to alert th
 
 ---
 
-## About the project
+### About the project
 
 Photoshop Guide 4 Dummies by Fonse Clarito, Stan Hung, Jack Luo.
