@@ -72,9 +72,9 @@ The essential sections of the documentation will teach you:
 The documentation will use the following symbols, and message blocks to alert the user with relevant information. Shown below are the symbols, and message blocks from most important to least:
 
 ```
-> ☠️ **Danger**  
-> 
-> Actions that may cause an error or result in the application crashing.
+☠️ **Danger**  
+ 
+Actions that may cause an error or result in the application crashing.
 ```
 
 > ⚠️**Warning**
