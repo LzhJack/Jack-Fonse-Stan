@@ -34,6 +34,27 @@ To successfully complete the steps provided, you will need the following:
 * A general understanding of basic computer tasks.
 * An internet connection to access required software.
 
+### Software Requirement(s):
+
+Before proceeding with the guide, ensure you have installed the following:
+* [**Windows 10 Operating System**][https://www.microsoft.com/en-ca/windows/get-windows-10]
+* [**Adobe Photoshop Pro 2021 _(Version 23.2.2 or later)_**][https://www.adobe.com/ca/products/photoshop.html]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
 
