@@ -59,11 +59,20 @@ The essential sections of the documentation will teach you:
 The documentation will use the following symbols, and message blocks to alert the user with relevant information. Shown below are the symbols, and message blocks from most important to least:
 
 > **Danger**
+> 
 > Actions that may cause an error or result in the application crashing.
 
+> **Warning**
+> 
+> Information that cautions the user to be careful before proceeding.
 
+> **Info**
+> 
+> Helpful tips or additional information for clarification.
 
-
+> **Success**
+> 
+> Indication of what happens when task is successfully completed. **(This is what peak performance looks like!!!)**
 
 
 
@@ -79,4 +88,4 @@ The documentation will use the following symbols, and message blocks to alert th
 
 ## About the project
 
-Just the Docs is &copy; {{ "now" | date: "%Y" }} by Fonse Clarito Stan Hung Jack Luo.
+Photoshop Guide 4 Dummies by Fonse Clarito, Stan Hung, Jack Luo.
