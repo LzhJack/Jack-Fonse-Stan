@@ -95,6 +95,6 @@ The documentation will use the following symbols, and message blocks to alert th
 
 ---
 
-### About the project
+About the project
 
 Photoshop Guide 4 Dummies by Fonse Clarito, Stan Hung, Jack Luo.
