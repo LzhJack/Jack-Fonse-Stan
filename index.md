@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # **Introduction**
-
+{: .no_toc }
 ---
 
 Welcome! This document will guide you on how to use Adobe Photoshop for creating and editing images. The aim of this guide is to provide users with the Photoshop skills that can help in the development of video games and websites.
