@@ -50,7 +50,7 @@ The essential sections of the documentation will teach you:
 ### Typographical Conventions
 
 1. Filenames, and paths will be denoted as shown in the example: _`filename.psd`_
-2. Keystrokes, and mouseclicks will appear similar to the example: <kbd>Ctrl</kbd> + <kbd>S</kbd>
+2. Keystrokes, and mouseclicks will appear similar to the example: <kbd>Ctrl</kbd> <small>+<small> <kbd>S</kbd>
 3. Keywords, and other important phrases will be italicized as such: _layers_
 4. Images with redboxes will highlight important details as shown below: (Placeholder for screenshot)
 
