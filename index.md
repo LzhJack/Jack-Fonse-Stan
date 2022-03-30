@@ -75,6 +75,20 @@ The documentation will use the following symbols, and message blocks to alert th
 |:-----------------|
 | Actions that may cause an error or result in the application crashing.|
 
+|<span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-000"> **Dangers** </span>|
+|:-----------------|
+| Actions that may cause an error or result in the application crashing.|
+
+<span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-000">
+| **Dangers** |
+|:-----------------|
+| Actions that may cause an error or result in the application crashing.|
+</span>
+
+| **<div class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-000">Dangers</div>** |
+|:-----------------|
+| Actions that may cause an error or result in the application crashing.|
+
 > ☠️ **Danger**
 > 
 > Actions that may cause an error or result in the application crashing.
