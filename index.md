@@ -60,8 +60,6 @@ The documentation will use the following symbols, and message blocks to alert th
 
 > ☠️**Danger**
 > 
-> --- 
-> 
 > Actions that may cause an error or result in the application crashing.
 
 > ⚠️**Warning**
