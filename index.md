@@ -73,7 +73,7 @@ The documentation will use the following symbols, and message blocks to alert th
 
 <div>
 <div style = "background-color:#fa4b4b; color: white">☠️<b>Danger</b></div>
-<div style = "background-color:#ffffff">Actions that may cause an error or result in the application crashing.</div>
+<div style = "background-color:#E8EAED">Actions that may cause an error or result in the application crashing.</div>
 
 </div>
 
