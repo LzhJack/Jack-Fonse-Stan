@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Navigation Structure
+title: How to Create an Animation
 nav_order: 5
 ---
 
-# Navigation Structure
+# How to Create an Animation
 
 {: .no_toc }
 
