@@ -1,10 +1,10 @@
 ---
 layout: default
-title: How to Create an Animation
+title: Test
 nav_order: 5
 ---
 
-# How to Create an Animation
+# Test
 
 {: .no_toc }
 
