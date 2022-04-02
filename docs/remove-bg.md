@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Test
-nav_order: 5
+title: Removing the Background from an Image
+nav_order: 2
 ---
 
 # Test
