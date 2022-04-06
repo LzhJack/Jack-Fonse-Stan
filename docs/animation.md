@@ -90,7 +90,7 @@ If successful, you should then see all your images loaded in under the **Layers*
 
 5. To preview your animation, click on the play button on the button of the **Timeline** window.
 
-6. If you find that your animation is playing backgrounds. You can click on the menu button located in the top right corner of the **Timeline** window, and selectined _Reverse Frames_.
+6. If you find that your animation is playing backgrounds. You can click on the menu button located in the top right corner of the **Timeline** window, and select _Reverse Frames_.
 \
 ![reverse](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/reverseframes.png)
 
