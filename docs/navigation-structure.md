@@ -127,14 +127,27 @@ Your image should now have a transparent background like the one below. Now you 
 
 ## Image exporting
 
-1. Click on _File_ on the very top-left of the application, then hover on _Export_ on the dropdown menu. Then click _Export As_. You can also press <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>W</kbd>. The _Export As_ window should appear.
-2. At the right side of the window, under _File Settings_, click on the _Format_ field. Then in the dropdown, click _png_. 
-3. After selecting PNG format, check the box right below labelled _Transparency_. This will turn the exported image transparent.
-4. You can then press _Export_ at the very bottom-right of the window. You can leave the other fields as default values. This will now open the File Explorer.
+1. Click on _File_ on the very top-left of the application, then hover on _Export_ on the dropdown menu. Then click _Export As_. You can also press <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>W</kbd>. The _Export As_ window should appear.  
+![export](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/export.png)
+
+2. At the right side of the window, under _File Settings_, click on the _Format_ field. Then in the dropdown, click _png_.  
+![png](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/png.png)
+
+3. After selecting PNG format, check the box right below labelled _Transparency_. This will turn the exported image transparent.  
+4. You can then press _Export_ at the very bottom-right of the window. You can leave the other fields as default values. This will now open the File Explorer.  
+![exportbtn](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/exportbtn.png)
+
 5. Find a place in your computer to store the new transparent image. Give the image any filename as well. Then click _Save_.
 
 > ✔️ **Success**
 > 
 > Once the image has been saved. You can open the new transparent image or use it on your projects.
-
-The result is shown at [the top of this page](#navigation-structure) (`{:toc}` can be used only once on each page).
+![donekirby](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/donekirby.png)
+# Conclusion
+At the end of this section, you have learned:
+* How to create a new transparent photoshop file
+* How to import images to photoshop files
+* How to use the Magic Wand tool
+* How to use the Lasso tools
+* How to export images as transparent _PNG_ files
+Good job! You can now proceed to learning how to animate a GIF image in Photoshop
