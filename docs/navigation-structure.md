@@ -30,7 +30,8 @@ In this section you will learn how to remove the background of an image using va
 
 Before we edit the image, we must create a new blank file. 
 
-1. On the top bar of photoshop, click ‘File’, then in the dropdown click ‘New’. Alternatively, you can press [Ctrl] + [N] on your keyboard. This will open the ‘New Document’ menu.
+1. On the top bar of photoshop, click ‘File’, then in the dropdown click ‘New’. Alternatively, you can press [Ctrl] + [N] on your keyboard. This will open the ‘New Document’ menu.  
+![New File](/assets/images/newfile.png)
 2. The right side of the menu contains the ‘Preset Details’, you can change the name of your photoshop file on the first line under ‘Preset Details’
 3. Now you need to set the width and height of your blank file. First make sure that you have chosen your preferred unit of measurement. For this tutorial, we will use centimetres.
 4. To set the width and the height of your blank file, change the fields labelled width for your file’s canvas, and height for your file’s height. Any width and   height is fine as long as your image can fit inside it. For this tutorial, we will be using a 16 x 9 canvas.
