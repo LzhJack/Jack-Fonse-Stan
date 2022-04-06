@@ -64,9 +64,11 @@ For this section, you must have an image file ready to use. The image must have 
 5. The layers panel shows all of the layers in your current file. Right now, there should only be one layer. If it is not yet highlighted by a lighter grey color, you must click on it. You can click once on either the small icon, or the name of the layer.  
 ![selectlayer](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/selectlayer.png)
 
-6. On the very left side of Photoshop is the _toolbar_. The toolbar contains different tools to edit or create graphics. For now, click on the very first one that looks like four perpendicular arrows pointing away from each other. You can also press <kbd>V</kbd> on your keyboard. This tool is called the _Move_ tool. This lets you move your image on the canvas.  
+6. On the very left side of Photoshop is the _toolbar_. The toolbar contains different tools to edit or create graphics. For now, click on the very first one that looks like four perpendicular arrows pointing away from each other. You can also press <kbd>V</kbd> on your keyboard.  
 ![move](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/move.png)
-
+> ℹ️ **Info**
+> 
+> This tool is called the _Move_ tool. This lets you move your image on the canvas.
 7. Now we need to put the image on the file we made previously. Right click on the tab of the image file, then in the dropdown click _Move To New Window_. This should separate the image into a smaller window.  
 ![newwindow](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/newwindow.png)
 
