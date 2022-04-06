@@ -85,7 +85,7 @@ You can find many ways to remove an image’s background on Photoshop. However, 
 2. On the toolbar, select the 4th tool that resembles a magic wand. You can also press <kbd>W</kbd> on your keyboard. If the 4th tool doesn’t resemble a magic wand, right click on the icon and click on _Magic Wand Tool_ in the submenu.  
 ![magicwand](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/magicwand.png)
 
-This is the _Magic Wand_ tool. The _Magic Wand_ tool lets you select a big portion of similarly-coloured pixels in your canvas. This is great for removing an image’s background.
+  This is the _Magic Wand_ tool. The _Magic Wand_ tool lets you select a big portion of similarly-coloured pixels in your canvas. This is great for removing an image’s background.
 
 3. You can set the _tolerance_ of the Magic Wand near the top of the application. Set the field labeled _Tolerance_ to 25. This will make sure that you only get the background and not parts of your image.  
 ![tolerance](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/tolerance.png)
@@ -115,7 +115,7 @@ You can also press <kbd>Z</kbd>. Then repeatedly click on the area you want to z
 
 2. Click the 3rd tool on the toolbar resembling a lasso. This is the _Lasso_ tool. It lets you select part of the canvas by freehand.  
 ![lasso](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/lasso.png)
-If you right click the lasso icon, you can also select either the _Polygonal Lasso_ tool, or the _Magnetic Lasso_ tool. The Polygonal Lasso tool selects by letting you place points instead of drawing by freehand. The Magnetic Lasso tool is freehand but tries to guess the location of where you’re drawing, which is great for inaccurate drawing.
+  If you right click the lasso icon, you can also select either the _Polygonal Lasso_ tool, or the _Magnetic Lasso_ tool. The Polygonal Lasso tool selects by letting you place points instead of drawing by freehand. The Magnetic Lasso tool is freehand but tries to guess the location of where you’re drawing, which is great for inaccurate drawing.
 
 3. Using any of these lassoes, select the part of the image to be removed. Make sure that you fully enclose the selection by clicking on the very first point placed in the selection.  
 ![selected](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/selected.png)
