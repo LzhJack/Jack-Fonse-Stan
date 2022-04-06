@@ -7,8 +7,11 @@ nav_order: 2
 # Applying Filters/Effects to an Image
 {: .no_toc }
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
-{: .fs-6 .fw-300 }
+## Overview
+
+In this section you will learn the use of filter and adjusting brightness of an image. To standardize the instructions, you will need to use Adobe Photoshop software for this practice. For beginner, these features can help you understand the effects of light, shadow and layers have on an image.
+
+---
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -17,13 +20,6 @@ Just the Docs has some specific configuration parameters that can be defined in 
 {:toc}
 
 ---
-
-## Overview
-
-In this section you will learn the use of filter and adjusting brightness of an image. To standardize the instructions, you will need to use Adobe Photoshop software for this practice. For beginner, these features can help you understand the effects of light, shadow and layers have on an image.
-
-## Open 
-
 
 ## Add filter to an image
 
