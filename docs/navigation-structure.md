@@ -91,11 +91,15 @@ You can find many ways to remove an image’s background on Photoshop. However, 
 ![tolerance](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/tolerance.png)
 
 4. With the Magic Wand tool selected, click on any part of your image’s background. This will select a portion of your image. All pixels within the moving black line are considered selected.
-5. If some parts of the image you want to keep are selected, click _Select_ at the very top of the application. Then click on _Deselect_. You can also press <kbd>Ctrl</kbd> + <kbd>D</kbd>. You then have to repeat steps 3 and 4 using a lower tolerance than the one used.  
-![deselect](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/deselect.png)
 
-6. Delete the current selection by pressing <kbd>Backspace</kbd> or <kbd>Delete</kbd> on your keyboard.
-7. Finally, deselect the current selection.
+> ⚠️**Warning**
+> 
+> If some parts of the image you want to keep are selected, click _Select_ at the very top of the application. Then click on _Deselect_. You can also press 
+> <kbd>Ctrl</kbd> + <kbd>D</kbd>. You then have to repeat steps 3 and 4 using a lower tolerance than the one used.  
+> ![deselect](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/deselect.png)
+
+5. Delete the current selection by pressing <kbd>Backspace</kbd> or <kbd>Delete</kbd> on your keyboard.
+6. Finally, deselect the current selection.
 
 You have now successfully removed the background of the image like so.  
 ![kirbimperfect](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/kirbimperfect.png)
