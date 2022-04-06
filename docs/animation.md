@@ -4,6 +4,15 @@ title: How to Create an Animation
 nav_order: 3
 ---
 
+### Overview
+
+This section will walkthrough you on how to use Adobe Photoshop to create a looping animation from multiple static images. This animation can then be used in a variety of different ways, such as:
+* Art Projects
+* Presentations
+* Videos
+* Web Design
+* Game Design
+
 # How to Create an Animation
 {: .no_toc }
 
@@ -18,180 +27,95 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 ---
 
-View this site's [\_config.yml](https://github.com/just-the-docs/just-the-docs/tree/main/_config.yml) file as an example.
+### File Creation
 
-## Site logo
+1. After opening up Adobe Photoshop, click on  _File_ and then _New_ in order to create a new file. You may also press <kbd>Ctrl</kbd> + <kbd>N</kbd> on your keyboard.
+![New File](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/newfile.png)
 
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
+2. A new window will appear onscreen labelled **New Document**. You may adjust any of the preset details in the right column in this window to suit your needs. For our purposes we will change _Background Contents_ by clicking on the box underneath it, and setting it to _Transparent_.
+![preset](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/transparent.png)
+
+3. After making your desired changes, press on the _Create_ button located in the bottom right corner of the window.
+
+After clicking on the _Create_ button, a new blank page should appear that looks like the image below. This is a canvas to begin your project.
+![blankcanvas](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/blankcanvas.png)
+
+---
+
+## Importing your Images
+
+```
+⚠️ **WARNING**: You will need a series of images that follow a sequence before proceeding.
+```
+1. In order to import your series of images for your animation. Click on _File_ > _Scripts_ > _Load Files into Stack..._
+![import1](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/importimage1.png)
+
+2. A new window will appear labelled **Load Layers**. In this window, click on _Browse.._ and navigate to where your images are located. Select all the images you wish to use for your animation.
+![import2](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/importimage2.png)
+
+3. Once you have loaded in your images, click on _Ok_
+
+```
+ℹ️ **INFO**: Depending on how many images you have, it may take some time to load in the images after Step 3. Don't panic!
 ```
 
-## Search
+If successful, you should then see all your images loaded in under the **Layers** panel as shown in the image below. You are now ready to begin animating your images!
+![loadimages](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/loadedimages.png)
 
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
+## Animating
 
-search:
-  # Split pages into sections that can be searched individually
-  # Supports 1 - 6, default: 2
-  heading_level: 2
-  # Maximum amount of previews per search result
-  # Default: 3
-  previews: 3
-  # Maximum amount of words to display before a matched word in the preview
-  # Default: 5
-  preview_words_before: 5
-  # Maximum amount of words to display after a matched word in the preview
-  # Default: 10
-  preview_words_after: 10
-  # Set the search token separator
-  # Default: /[\s\-/]+/
-  # Example: enable support for hyphenated search words
-  tokenizer_separator: /[\s/]+/
-  # Display the relative url in search results
-  # Supports true (default) or false
-  rel_url: true
-  # Enable or disable the search button that appears in the bottom right corner of every page
-  # Supports true or false (default)
-  button: false
-```
+1. To begin animating, you will first need to bring up the **Timeline** window. This can be done by clicking on _Window_ and selecting _Timeline_. This is located in the top of the **Adobe Photoshop** application. A new window should appear in the bottom of your application that looks like the image below.
+![timelinewindow](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/newtimeline.png)
 
-## Aux links
+2. If the button in the new **Timeline** window is titled **Create Video Timeline**. Click on the the arrow next to **Create Video Timeline** and select **Create Frame Animation**. Otherwise, click on **Create Frame Animation**.
+![changetimeline](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/changetimeline.png)
 
-```yaml
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/just-the-docs/just-the-docs"
+3. To convert your images to frames, click on the menu icon that looks like lines stacked on top of each other in the top right corner of the **Timeline** window, and select _Make Frames from layers_.
+![makeframes](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/makeframes.png)
 
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
-```
+4. Your images should then be loaded into the **Timeline** window as shown below.
+![framestimeline](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/framestimeline.png)
 
-## Heading anchor links
+5. To preview your animation, click on the play button on the button of the **Timeline** window.
 
-```yaml
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
-#
-# Supports true (default) or false
-heading_anchors: true
-```
+6. If you find that your animation is playing backgrounds. You can click on the menu button located in the top right corner of the **Timeline** window, and selectined _Reverse Frames_.
+![reverse](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/reverseframes.png)
 
-## Footer content
+7. You may wish to adjust the delay between each frame by clicking on the arrow underneath each frame as shown below.
+![framedelay](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/framedelay.png)
 
-```yaml
-# Footer content
-# appears at the bottom of every page's main content
-# Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust
-markup / liquid-based content.
-footer_content: "Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a>"
+8. If desired, you can also set the animation loop by clicking on the button that is labelled **Forever** by default. 
+![loop](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/loop.png)
 
-# Footer last edited timestamp
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+You are now ready to export your animated graphic to be used however you want.
 
-# Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/just-the-docs/just-the-docs" # the github URL for your repo
-gh_edit_branch: "main" # the branch that your docs is served from
-# gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
-```
+## Exporting your Animation as a GIF
+Once you are satisfied with how your animation plays out, you can export your graphic as a GIF (graphics interchange format) file format by:
 
-_note: `footer_content` is deprecated, but still supported. For a better experience we have moved this into an include called `_includes/footer_custom.html` which will allow for robust markup / liquid-based content._
+1. Selecting _File > Export > Save for Web (Legacy)_ located in the top left corner of the **Adobe Photoshop** application. Alternatively you can press <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>S</kbd> on your keyboard.
 
-- the "page last modified" data will only display if a page has a key called `last_modified_date`, formatted in some readable date format
-- `last_edit_time_format` uses Ruby's DateTime formatter; see examples and more information [at this link.](https://apidock.com/ruby/DateTime/strftime)
-- `gh_edit_repository` is the URL of the project's GitHub repository
-- `gh_edit_branch` is the branch that the docs site is served from; defaults to `main`
-- `gh_edit_source` is the source directory that your project files are stored in (should be the same as [site.source](https://jekyllrb.com/docs/configuration/options/))
-- `gh_edit_view_mode` is `"tree"` by default, which brings the user to the github page; switch to `"edit"` to bring the user directly into editing mode
+2. A new window should appear titled **Save for Web** with your animation in the middle of the window.
 
-## Color scheme
+3. Under the **Preset** menu, select _GIF 128 Dithered_.
+![dithered](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/gifdithered.png)
 
-```yaml
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
-```
+4. Select _256_ from the **Colors** menu.
+![color](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/256.png)
 
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+5. You may make any other final adjustments to the animation loop, or size in the **Save for Web** window.
 
-<script>
-const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+6. After you are done making your necessary changes, click on the **Save..** button located below. Select a destination and name for your GIF file.
 
-jtd.addEvent(toggleDarkMode, 'click', function(){
-  if (jtd.getTheme() === 'dark') {
-    jtd.setTheme('light');
-    toggleDarkMode.textContent = 'Preview dark color scheme';
-  } else {
-    jtd.setTheme('dark');
-    toggleDarkMode.textContent = 'Return to the light side';
-  }
-});
-</script>
+>✔️**SUCCESS**
+>
+> Once you have saved your GIF, you can use it a variety of ways for your different projects.
+![movingcat](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/donecat.gif)
 
-See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
+# Conclusion
 
-## Google Analytics
-
-```yaml
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: UA-5555555-55
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
-```
-
-## Document collections
-
-By default, the navigation and search include normal [pages](https://jekyllrb.com/docs/pages/).
-Instead, you can also use [Jekyll collections](https://jekyllrb.com/docs/collections/) which group documents semantically together.
-
-For example, put all your documentation files in the `_docs` folder and create the `docs` collection:
-
-```yaml
-# Define Jekyll collections
-collections:
-  # Define a collection named "docs", its documents reside in the "_docs" directory
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  # Define which collections are used in just-the-docs
-  collections:
-    # Reference the "docs" collection
-    docs:
-      # Give the collection a name
-      name: Documentation
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false
-```
-
-You can reference multiple collections.
-This creates categories in the navigation with the configured names.
-
-```yaml
-collections:
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-  tutorials:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation
-    tutorials:
-      name: Tutorials
-```
+At the end of this section, you have learned:
+* How to create a new Adobe Photoshop file
+* How to import your series of images as a stack
+* How to add animation frames by using your images
+* How to customize your animation
+* How to export your animation
