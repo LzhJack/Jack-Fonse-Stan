@@ -51,7 +51,7 @@ For this section, you must have an image file ready to use. The image must have 
 4. At the bottom-right corner of Photoshop, make sure that you are in the ‘Layers’ panel. If not,  click the label named ‘Layers’.
 5. The layers panel shows all of the layers in your current file. Right now, there should only be one layer. If it is not yet highlighted by a lighter grey color, you must click on it. You can click once on either the small icon, or the name of the layer.
 6. On the very left side of Photoshop is the toolbar. The toolbar contains different tools to edit or create graphics. For now, click on the very first one that looks like four perpendicular arrows pointing away from each other. You can also press V on your keyboard. This tool is called the ‘Move’ tool. This lets you move your image on the canvas.
-7. Now we need to put the image on the file we made previously. Drag the window of this file out by clicking the tab near the top of the screen, then pulling down. This should separate the image into a smaller window. 
+7. Now we need to put the image on the file we made previously. Right click on the tab of the image file, then in the dropdown click 'Move To New Window'. This should separate the image into a smaller window. 
 8. Go back to the blank Photoshop file made in the section before. Make sure that you are still using the ‘Move’ tool. Now drag your image from the smaller window into your blank canvas. You can then close the smaller window. If needed, move your image to where it is fully visible on the canvas.
 
 You are now ready to remove the image’s background.
