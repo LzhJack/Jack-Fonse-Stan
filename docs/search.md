@@ -1,5 +1,7 @@
 ---
-nav_exclude: true
+layout: default
+title: Troubleshooting
+nav_order: 5
 ---
 
 # Search
