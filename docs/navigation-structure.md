@@ -83,7 +83,7 @@ For finer selection, you should use one of the lasso tools.
 2. Click the 3rd tool on the toolbar resembling a lasso. This is the Lasso tool. It lets you select part of the canvas by freehand. If you right click the lasso icon, you can also select either the Polygonal Lasso tool, or the Magnetic Lasso tool. The Polygonal Lasso tool selects by letting you place points instead of drawing by freehand. The Magnetic Lasso tool is freehand but tries to guess the location of where you’re drawing, which is great for inaccurate drawing.
 3. Using any of these lassoes, ‘select’ the part of the image to be removed. Make sure that you fully enclose the selection by clicking on the very first point placed in the selection. 
 4. After closing the selection, the moving black lines should appear again. In which case, you can delete the selection by pressing Backspace or Delete on your keyboard.
-5. select the selection by clicking ‘Select’ at the very top of the application. Then click on ‘Deselect’. You can also press Ctrl + D on your keyboard.
+5. Deselect the selection by clicking ‘Select’ at the very top of the application. Then click on ‘Deselect’. You can also press Ctrl + D on your keyboard.
 
 You have now removed the background of your image. Now you need to export it.
 
