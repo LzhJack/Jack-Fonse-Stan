@@ -31,7 +31,7 @@ In this section you will learn how to remove the background of an image using va
 Before we edit the image, we must create a new blank file. 
 
 1. On the top bar of photoshop, click _File_, then in the dropdown click _New_. Alternatively, you can press <kbd>Ctrl</kbd> + <kbd>N</kbd> on your keyboard. This will open the _New Document_ menu.  
-![New File](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/newfile.png);
+![New File](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/newfile.png)
 
 2. The right side of the menu contains the _Preset Details_, you can change the name of your photoshop file on the first line under _Preset Details_.
 3. Now you need to set the width and height of your blank file. First make sure that you have chosen your preferred unit of measurement. For this tutorial, we will use centimetres.  
@@ -51,29 +51,29 @@ If your file looks like a blank transparent canvas like the image below, you hav
 ## Image importing
 
 For this section, you must have an image file ready to use. The image must have a plain uniform background. The image must also fit within the file created previously. For this tutorial, we have picked this sample image of Kirby riding a star.  
-![Kirby](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/kirb-star.jpg);
+![Kirby](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/kirb-star.jpg)
 
 1. To open the image click _File_, and in the dropdown menu click _Open_. Alternatively you can press <kbd>Ctrl</kbd> + <kbd>O</kbd> on your keyboard. This will open up your file explorer.  
-![New Image](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/newimage.png);
+![New Image](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/newimage.png)
 
 2. Inside the file explorer, locate and click on your image. You can also type in the filename at the bottom of the window if the image is located in the current directory.
 3. At the bottom left of the file explorer, click the _Open_ button. The image will now load on a new tab in Photoshop.
 4. At the bottom-right corner of Photoshop, make sure that you are in the _Layers_ panel. If not,  click the label named _Layers_.  
-![layertab](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/layertab.png);
+![layertab](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/layertab.png)
 
 5. The layers panel shows all of the layers in your current file. Right now, there should only be one layer. If it is not yet highlighted by a lighter grey color, you must click on it. You can click once on either the small icon, or the name of the layer.  
-![selectlayer](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/selectlayer.png);
+![selectlayer](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/selectlayer.png)
 
 6. On the very left side of Photoshop is the _toolbar_. The toolbar contains different tools to edit or create graphics. For now, click on the very first one that looks like four perpendicular arrows pointing away from each other. You can also press <kbd>V</kbd> on your keyboard. This tool is called the _Move_ tool. This lets you move your image on the canvas.  
-![move](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/move.png);
+![move](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/move.png)
 
 7. Now we need to put the image on the file we made previously. Right click on the tab of the image file, then in the dropdown click _Move To New Window_. This should separate the image into a smaller window.  
-![newwindow](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/newwindow.png);
+![newwindow](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/newwindow.png)
 
 8. Go back to the blank Photoshop file made in the section before. Make sure that you are still using the _Move_ tool. Now drag your image from the smaller window into your blank canvas. You can then close the smaller window. If needed, move your image to where it is fully visible on the canvas.
 
 When you have added your image to your canvas like below, you are now ready to remove the image’s background.  
-![importedimg](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/importedimg.png);
+![importedimg](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/importedimg.png)
 
 ---
 
@@ -82,15 +82,24 @@ When you have added your image to your canvas like below, you are now ready to r
 You can find many ways to remove an image’s background on Photoshop. However, for this tutorial we will use the _Magic Wand_ tool.
 
 1. Make sure that the layer containing your image is selected.
-2. On the toolbar, select the 4th tool that resembles a magic wand. You can also press <kbd>W</kbd> on your keyboard. If the 4th tool doesn’t resemble a magic wand, <kbd>right click</kbd> on the icon and click on _Magic Wand Tool_ in the submenu.
-This is the _Magic Wand_ tool. The _Magic Wand_ tool lets you select a big portion of similarly-coloured pixels in your canvas. This is great for removing an image’s background.
-3. You can set the _tolerance_ of the Magic Wand near the top of the application. Set the field labeled _Tolerance_ to 25. This will make sure that you only get the background and not parts of your image.
-4. With the Magic Wand tool selected, click on any part of your image’s background. This will select a portion of your image. All pixels within the moving black line are considered selected.
-5. If some parts of the image you want to keep are selected, click _Select_ at the very top of the application. Then click on _Deselect_. You can also press <kbd>Ctrl</kbd> + <kbd>D</kbd>. You then have to repeat steps 3 and 4 using a lower tolerance than the one used.
-6. Delete the current selection by pressing <kbd>Backspace</kbd> or <kbd>Delete</kbd> on your keyboard.
-7. Deselect the selection by clicking _Select_ at the very top of the application. Then click on _Deselect_. You can also press <kbd>Ctrl</kbd> + <kbd>D</kbd> on your keyboard.
+2. On the toolbar, select the 4th tool that resembles a magic wand. You can also press <kbd>W</kbd> on your keyboard. If the 4th tool doesn’t resemble a magic wand, <kbd>right click</kbd> on the icon and click on _Magic Wand Tool_ in the submenu.  
+![magicwand](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/magicwand.png)
 
-You have now successfully removed the background of the image. However, there can be parts of the image that weren't selected by the Magic Wand tool. You can try selecting it again using Magic Wand but sometimes it is not enough. You need to select parts of the image on a finer scale.
+This is the _Magic Wand_ tool. The _Magic Wand_ tool lets you select a big portion of similarly-coloured pixels in your canvas. This is great for removing an image’s background.
+3. You can set the _tolerance_ of the Magic Wand near the top of the application. Set the field labeled _Tolerance_ to 25. This will make sure that you only get the background and not parts of your image.  
+![tolerance](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/tolerance.png)
+
+4. With the Magic Wand tool selected, click on any part of your image’s background. This will select a portion of your image. All pixels within the moving black line are considered selected.
+5. If some parts of the image you want to keep are selected, click _Select_ at the very top of the application. Then click on _Deselect_. You can also press <kbd>Ctrl</kbd> + <kbd>D</kbd>. You then have to repeat steps 3 and 4 using a lower tolerance than the one used.  
+![deselect](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/deselect.png)
+
+6. Delete the current selection by pressing <kbd>Backspace</kbd> or <kbd>Delete</kbd> on your keyboard.
+7. Finally, deselect the current selection.
+
+You have now successfully removed the background of the image like so.  
+![kirbimperfect](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/kirbimperfect.png)
+
+However, there can be parts of the image that weren't selected by the Magic Wand tool. You can try selecting it again using Magic Wand but sometimes it is not enough. You need to select parts of the image on a finer scale.
 
 ---
 
