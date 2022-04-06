@@ -69,9 +69,11 @@ For this section, you must have an image file ready to use. The image must have 
 
 6. On the very left side of Photoshop is the _toolbar_. The toolbar contains different tools to edit or create graphics. For now, click on the very first one that looks like four perpendicular arrows pointing away from each other. You can also press <kbd>V</kbd> on your keyboard.  
 ![move](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/move.png)
-> ℹ️ **Info**
-> 
-> This tool is called the _Move_ tool. This lets you move your image on the canvas.
+
+|ℹ️ **INFO** |
+|:-------------------------------------------------------------------------|
+|This tool is called the _Move_ tool. This lets you move your image on the canvas.|
+
 7. Now we need to put the image on the file we made previously. Right click on the tab of the image file, then in the dropdown click _Move To New Window_. This should separate the image into a smaller window.  
 ![newwindow](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/newwindow.png)
 
@@ -96,16 +98,18 @@ You can find many ways to remove an image’s background on Photoshop. However, 
 
 |ℹ️ **INFO** |
 |:-------------------------------------------------------------------------|
-|This is the _Magic Wand_ tool. The _Magic Wand_ tool lets you select a big portion of similarly-coloured pixels in your canvas. This is great for removing an image’s background.|  
+|This is the _Magic Wand_ tool. The _Magic Wand_ tool lets you select a big portion of similarly-coloured pixels in your canvas. This is great for removing an image’s background.|
+
 3. You can set the _tolerance_ of the Magic Wand near the top of the application. Set the field labeled _Tolerance_ to 25. This will make sure that you only get the background and not parts of your image.  
 ![tolerance](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/tolerance.png)
 
 4. With the Magic Wand tool selected, click on any part of your image’s background. This will select a portion of your image. All pixels within the moving black line are considered selected.
-> ⚠️**Warning**
-> 
-> If some parts of the image you want to keep are selected, click _Select_ at the very top of the application. Then click on _Deselect_. You can also press 
-<kbd>Ctrl</kbd> + <kbd>D</kbd>. You then have to repeat steps 3 and 4 using a lower tolerance than the one used.  
-![deselect](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/deselect.png)  
+
+|⚠️ **WARNING** |
+|:-------------------------------------------------------------------------|
+|If some parts of the image you want to keep are selected, click _Select_ at the very top of the application. Then click on _Deselect_. You can also press 
+<kbd>Ctrl</kbd> + <kbd>D</kbd>. You then have to repeat steps 3 and 4 using a lower tolerance than the one used.|
+
 5. Delete the current selection by pressing <kbd>Backspace</kbd> or <kbd>Delete</kbd> on your keyboard.
 6. Finally, deselect the current selection.
 
@@ -126,9 +130,11 @@ Then repeatedly click on the area you want to zoom in to. If you need to zoom ou
 
 2. Click the 3rd tool on the toolbar resembling a lasso. This is the _Lasso_ tool. It lets you select part of the canvas by freehand.  
 ![lasso](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/lasso.png)
-> ℹ️ **Info**
-> 
-> If you right click the lasso icon, you can also select either the _Polygonal Lasso_ tool, or the _Magnetic Lasso_ tool. The Polygonal Lasso tool selects by letting you place points instead of drawing by freehand. The Magnetic Lasso tool is freehand but tries to guess the location of where you’re drawing, which is great for inaccurate drawing.  
+
+|ℹ️ **INFO** |
+|:-------------------------------------------------------------------------|
+|If you right click the lasso icon, you can also select either the _Polygonal Lasso_ tool, or the _Magnetic Lasso_ tool. The Polygonal Lasso tool selects by letting you place points instead of drawing by freehand. The Magnetic Lasso tool is freehand but tries to guess the location of where you’re drawing, which is great for inaccurate drawing.|
+
 3. Using any of these lassoes, select the part of the image to be removed. Make sure that you fully enclose the selection by clicking on the very first point placed in the selection.  
 ![selected](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/selected.png)
 4. After closing the selection, the moving black lines should appear again. In which case, you can delete the selection by pressing <kbd>Backspace</kbd> or <kbd>Delete</kbd> on your keyboard.
@@ -151,10 +157,10 @@ Your image should now have a transparent background like the one below. Now you 
 
 5. Find a place in your computer to store the new transparent image. Give the image any filename as well. Then click _Save_.
 
-> ✔️ **Success**
-> 
-> Once the image has been saved. You can open the new transparent image or use it on your projects.
-![donekirby](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/donekirby.png)
+|✔️**SUCCESS**|
+|:-----------------------------------------------------|
+|Once the image has been saved. You can open the new transparent image or use it on your projects.
+![donekirby](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/donekirby.png)|
 
 # Conclusion
 
