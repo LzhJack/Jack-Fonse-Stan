@@ -80,7 +80,7 @@ If successful, you should then see all your images loaded in under the **Layers*
 
 4. Your images should then be loaded into the **Timeline** window as shown below.
 \
-![framestimeline](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/framestimeline.png)
+![framestimeline](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/framestimeline.PNG)
 
 5. To preview your animation, click on the play button on the button of the **Timeline** window.
 
