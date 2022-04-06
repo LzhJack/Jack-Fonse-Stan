@@ -87,7 +87,7 @@ You can find many ways to remove an image’s background on Photoshop. However, 
 
 > ℹ️ **Info**
 > 
-> This is the _Magic Wand_ tool. The _Magic Wand_ tool lets you select a big portion of similarly-coloured pixels in your canvas. This is great for removing an >image’s background.  
+> This is the _Magic Wand_ tool. The _Magic Wand_ tool lets you select a big portion of similarly-coloured pixels in your canvas. This is great for removing an image’s background.  
 
 3. You can set the _tolerance_ of the Magic Wand near the top of the application. Set the field labeled _Tolerance_ to 25. This will make sure that you only get the background and not parts of your image.  
 ![tolerance](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/tolerance.png)
@@ -97,8 +97,8 @@ You can find many ways to remove an image’s background on Photoshop. However, 
 > ⚠️**Warning**
 > 
 > If some parts of the image you want to keep are selected, click _Select_ at the very top of the application. Then click on _Deselect_. You can also press 
-> <kbd>Ctrl</kbd> + <kbd>D</kbd>. You then have to repeat steps 3 and 4 using a lower tolerance than the one used.  
-> ![deselect](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/deselect.png)
+<kbd>Ctrl</kbd> + <kbd>D</kbd>. You then have to repeat steps 3 and 4 using a lower tolerance than the one used.  
+![deselect](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/deselect.png)
 
 5. Delete the current selection by pressing <kbd>Backspace</kbd> or <kbd>Delete</kbd> on your keyboard.
 6. Finally, deselect the current selection.
@@ -151,7 +151,9 @@ Your image should now have a transparent background like the one below. Now you 
 > 
 > Once the image has been saved. You can open the new transparent image or use it on your projects.
 ![donekirby](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/donekirby.png)
+
 # Conclusion
+
 At the end of this section, you have learned:
 * How to create a new transparent photoshop file
 * How to import images to photoshop files
