@@ -32,23 +32,23 @@ Before we edit the image, we must create a new blank file.
 
 1. On the top bar of photoshop, click _File_, then in the dropdown click _New_. Alternatively, you can press <kbd>Ctrl</kbd> + <kbd>N</kbd> on your keyboard. This will open the _New Document_ menu.
 
-![New File](/assets/images/newfile.png)
+![New File](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/newfile.png);
 
 2. The right side of the menu contains the _Preset Details_, you can change the name of your photoshop file on the first line under _Preset Details_.
 3. Now you need to set the width and height of your blank file. First make sure that you have chosen your preferred unit of measurement. For this tutorial, we will use centimetres.
   
-![preset](/assets/images/preset.png)
+![preset](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/preset.png)
 
 4. To set the width and the height of your blank file, change the fields labeled width for your file’s _canvas_, and height for your file’s height. Any width and   height is fine as long as your image can fit inside it. For this tutorial, we will be using a 16 x 9 _canvas_.
 5. In order to make your image transparent later, you must click the _Background Contents_ field, and in the dropdown select _Transparent_.
   
-![transparent](/assets/images/transparent.png)
+![transparent](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/transparent.png)
 
 6. Finally, you can press _Create_ at the bottom right of the menu. You can leave the other settings as the default.
 
 If your file looks like a blank transparent canvas like the image below, you have now successfully opened a new Photoshop file.
 
-![blankcanvas](/assets/images/blankcanvas.png)
+![blankcanvas](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/blankcanvas.png)
 
 ---
 
