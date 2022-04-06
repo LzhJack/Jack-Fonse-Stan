@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Removing the Background from an Image
+title: How to Remove an Image's Background
 nav_order: 2
 ---
 # How to Remove an Image's Background
