@@ -82,10 +82,10 @@ When you have added your image to your canvas like below, you are now ready to r
 You can find many ways to remove an image’s background on Photoshop. However, for this tutorial we will use the _Magic Wand_ tool.
 
 1. Make sure that the layer containing your image is selected.
-2. On the toolbar, select the 4th tool that resembles a magic wand. You can also press <kbd>W</kbd> on your keyboard. If the 4th tool doesn’t resemble a magic wand, <kbd>right click</kbd> on the icon and click on _Magic Wand Tool_ in the submenu.  
+2. On the toolbar, select the 4th tool that resembles a magic wand. You can also press <kbd>W</kbd> on your keyboard. If the 4th tool doesn’t resemble a magic wand, right click on the icon and click on _Magic Wand Tool_ in the submenu.  
 ![magicwand](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/magicwand.png)
 
-This is the _Magic Wand_ tool. The _Magic Wand_ tool lets you select a big portion of similarly-coloured pixels in your canvas. This is great for removing an image’s background.
+This is the _Magic Wand_ tool. The _Magic Wand_ tool lets you select a big portion of similarly-coloured pixels in your canvas. This is great for removing an image’s background.  
 3. You can set the _tolerance_ of the Magic Wand near the top of the application. Set the field labeled _Tolerance_ to 25. This will make sure that you only get the background and not parts of your image.  
 ![tolerance](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/tolerance.png)
 
