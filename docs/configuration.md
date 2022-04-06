@@ -23,9 +23,14 @@ In this section you will learn the use of filter and adjusting brightness of an 
 
 ---
 
-## Initialize PhotoShop
+## Importing your Images
 
-1.Open AdobePhotoshop 2022 by double clicking on the [Adobe Photoshop 2022](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/PS icon.png) icon.
+1.Open AdobePhotoshop 2022 by double clicking on the ![Adobe Photoshop 2022](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/PS icon.png) icon.
+
+2.Drag and drop a sample photo into Image bar at the home page. ![Drag](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/DragFile.gif)
+
+3.Once you have loaded in your images, below image is what you should expect.![Sample](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/LoadedSample.png)
+
 
 ## Add filter to an image
 
