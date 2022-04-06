@@ -13,7 +13,7 @@ Just the Docs has some specific configuration parameters that can be defined in 
 ## Table of contents
 {: .no_toc .text-delta }
 
-TOC
+- TOC
 {:toc}
 
 ---
