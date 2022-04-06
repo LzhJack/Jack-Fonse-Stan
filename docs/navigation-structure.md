@@ -27,6 +27,8 @@ In this section you will learn how to remove the background of an image using va
 
 ---
 
+Before starting this section, get a picture you want to remove the background of. The picture must have a plain uniform background (like a plain white background). You can also just download [this sample image of Kirby riding a star](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/kirb-star.jpg).
+
 ## Photoshop file setup
 
 Before we edit the image, we must create a new blank file. 
