@@ -90,9 +90,10 @@ You have now removed the background of your image. Now you need to export it.
 ## Image exporting
 
 1. Click on ‘File’ on the very top-left of the application, then hover on ‘Export’ on the dropdown menu. Then click ‘Export As’. You can also press Alt + Shift + Ctrl + W. The ‘Export As’ window should appear.
-2. At the right side of the window, under ‘File Settings’, click on the ‘Format’ field. Then in the dropdown, click PNG. This will turn the exported image transparent.
-3. You can then press ‘Export’ at the very bottom-right of the window. You can leave the other fields as default values. This will now open the File Explorer.
-4. Find a place in your computer to store the new transparent image. Give the image any filename as well. Then click ‘Save’.
+2. At the right side of the window, under ‘File Settings’, click on the ‘Format’ field. Then in the dropdown, click PNG. 
+3. After selecting PNG format, check the box right below labelled 'Transparency'. This will turn the exported image transparent.
+4. You can then press ‘Export’ at the very bottom-right of the window. You can leave the other fields as default values. This will now open the File Explorer.
+5. Find a place in your computer to store the new transparent image. Give the image any filename as well. Then click ‘Save’.
 
 Success: Once the image has been saved. You can open the new transparent image or use it on your projects.
 
