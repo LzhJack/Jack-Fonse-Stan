@@ -5,7 +5,7 @@ nav_order: 3
 ---
 # How to Create an Animation
 
-### Overview
+## Overview
 
 This section will walkthrough you on how to use Adobe Photoshop to create a looping animation from multiple static images. This animation can then be used in a variety of different ways, such as:
 * Art Projects
@@ -28,7 +28,7 @@ This section will walkthrough you on how to use Adobe Photoshop to create a loop
 
 ---
 
-### File Creation
+## File Creation
 
 1. After opening up Adobe Photoshop, click on  _File_ and then _New_ in order to create a new file. You may also press <kbd>Ctrl</kbd> + <kbd>N</kbd> on your keyboard.
 \
@@ -128,7 +128,7 @@ Once you are satisfied with how your animation plays out, you can export your gr
 \
 ![movingcat](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/donecat.gif)
 
-# Conclusion
+## Conclusion
 
 At the end of this section, you have learned:
 * How to create a new Adobe Photoshop file
