@@ -30,7 +30,7 @@ In this section you will learn how to remove the background of an image using va
 
 Before we edit the image, we must create a new blank file. 
 
-1. On the top bar of photoshop, click _File_, then in the dropdown click _New_. Alternatively, you can press <kbd>Ctrl</kbd> + <kbd>N<kbd> on your keyboard. This will open the _New Document_ menu.
+1. On the top bar of photoshop, click _File_, then in the dropdown click _New_. Alternatively, you can press <kbd>Ctrl</kbd> + <kbd>N</kbd> on your keyboard. This will open the _New Document_ menu.
 
 ![New File](/assets/images/newfile.png)
 2. The right side of the menu contains the _Preset Details_, you can change the name of your photoshop file on the first line under _Preset Details_.
