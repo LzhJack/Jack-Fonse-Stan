@@ -56,7 +56,7 @@ After clicking on the _Create_ button, a new blank page should appear that looks
 
 2. A new window will appear labelled **Load Layers**. In this window, click on _Browse.._ and navigate to where your images are located. Select all the images you wish to use for your animation.
 \
-![import2](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/importimage2.png)
+![import2](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/importimage2.PNG)
 
 3. Once you have loaded in your images, click on _Ok_
 
@@ -66,13 +66,13 @@ After clicking on the _Create_ button, a new blank page should appear that looks
 
 If successful, you should then see all your images loaded in under the **Layers** panel as shown in the image below. You are now ready to begin animating your images!
 \
-![loadimages](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/loadedimages.png)
+![loadimages](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/loadedimages.PNG)
 
 ## Animating
 
 1. To begin animating, you will first need to bring up the **Timeline** window. This can be done by clicking on _Window_ and selecting _Timeline_. This is located in the top of the **Adobe Photoshop** application. A new window should appear in the bottom of your application that looks like the image below.
 \
-![timelinewindow](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/newtimeline.png)
+![timelinewindow](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/newtimeline.PNG)
 
 2. If the button in the new **Timeline** window is titled **Create Video Timeline**. Click on the the arrow next to **Create Video Timeline** and select **Create Frame Animation**. Otherwise, click on **Create Frame Animation**.
 \
