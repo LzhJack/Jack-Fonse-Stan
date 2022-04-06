@@ -30,42 +30,50 @@ In this section you will learn how to remove the background of an image using va
 
 Before we edit the image, we must create a new blank file. 
 
-1. On the top bar of photoshop, click _File_, then in the dropdown click _New_. Alternatively, you can press <kbd>Ctrl</kbd> + <kbd>N</kbd> on your keyboard. This will open the _New Document_ menu.
-
+1. On the top bar of photoshop, click _File_, then in the dropdown click _New_. Alternatively, you can press <kbd>Ctrl</kbd> + <kbd>N</kbd> on your keyboard. This will open the _New Document_ menu.  
 ![New File](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/newfile.png);
 
 2. The right side of the menu contains the _Preset Details_, you can change the name of your photoshop file on the first line under _Preset Details_.
-3. Now you need to set the width and height of your blank file. First make sure that you have chosen your preferred unit of measurement. For this tutorial, we will use centimetres.
-  
+3. Now you need to set the width and height of your blank file. First make sure that you have chosen your preferred unit of measurement. For this tutorial, we will use centimetres.  
 ![preset](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/preset.png)
 
 4. To set the width and the height of your blank file, change the fields labeled width for your file’s _canvas_, and height for your file’s height. Any width and   height is fine as long as your image can fit inside it. For this tutorial, we will be using a 16 x 9 _canvas_.
-5. In order to make your image transparent later, you must click the _Background Contents_ field, and in the dropdown select _Transparent_.
-  
+5. In order to make your image transparent later, you must click the _Background Contents_ field, and in the dropdown select _Transparent_.  
 ![transparent](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/transparent.png)
 
 6. Finally, you can press _Create_ at the bottom right of the menu. You can leave the other settings as the default.
 
-If your file looks like a blank transparent canvas like the image below, you have now successfully opened a new Photoshop file.
-
+If your file looks like a blank transparent canvas like the image below, you have now successfully opened a new Photoshop file.  
 ![blankcanvas](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/blankcanvas.png)
 
 ---
 
 ## Image importing
 
-For this section, you must have an image file ready to use. The image must have a plain uniform background. The image must also fit within the file created previously. For this tutorial, we have picked this sample image of Kirby riding a star.
+For this section, you must have an image file ready to use. The image must have a plain uniform background. The image must also fit within the file created previously. For this tutorial, we have picked this sample image of Kirby riding a star.  
+![Kirby](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/kirb-star.jpg);
 
-1. To open the image click _File_, and in the dropdown menu click _Open_. Alternatively you can press <kbd>Ctrl</kbd> + <kbd>O</kbd> on your keyboard. This will open up your file explorer.
+1. To open the image click _File_, and in the dropdown menu click _Open_. Alternatively you can press <kbd>Ctrl</kbd> + <kbd>O</kbd> on your keyboard. This will open up your file explorer.  
+![New Image](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/newimage.png);
+
 2. Inside the file explorer, locate and click on your image. You can also type in the filename at the bottom of the window if the image is located in the current directory.
 3. At the bottom left of the file explorer, click the _Open_ button. The image will now load on a new tab in Photoshop.
-4. At the bottom-right corner of Photoshop, make sure that you are in the _Layers_ panel. If not,  click the label named _Layers_.
-5. The layers panel shows all of the layers in your current file. Right now, there should only be one layer. If it is not yet highlighted by a lighter grey color, you must click on it. You can click once on either the small icon, or the name of the layer.
-6. On the very left side of Photoshop is the _toolbar_. The toolbar contains different tools to edit or create graphics. For now, click on the very first one that looks like four perpendicular arrows pointing away from each other. You can also press <kbd>V</kbd> on your keyboard. This tool is called the _Move_ tool. This lets you move your image on the canvas.
-7. Now we need to put the image on the file we made previously. Right click on the tab of the image file, then in the dropdown click _Move To New Window_. This should separate the image into a smaller window. 
+4. At the bottom-right corner of Photoshop, make sure that you are in the _Layers_ panel. If not,  click the label named _Layers_.  
+![layertab](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/layertab.png);
+
+5. The layers panel shows all of the layers in your current file. Right now, there should only be one layer. If it is not yet highlighted by a lighter grey color, you must click on it. You can click once on either the small icon, or the name of the layer.  
+![selectlayer](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/selectlayer.png);
+
+6. On the very left side of Photoshop is the _toolbar_. The toolbar contains different tools to edit or create graphics. For now, click on the very first one that looks like four perpendicular arrows pointing away from each other. You can also press <kbd>V</kbd> on your keyboard. This tool is called the _Move_ tool. This lets you move your image on the canvas.  
+![move](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/move.png);
+
+7. Now we need to put the image on the file we made previously. Right click on the tab of the image file, then in the dropdown click _Move To New Window_. This should separate the image into a smaller window.  
+![newwindow](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/newwindow.png);
+
 8. Go back to the blank Photoshop file made in the section before. Make sure that you are still using the _Move_ tool. Now drag your image from the smaller window into your blank canvas. You can then close the smaller window. If needed, move your image to where it is fully visible on the canvas.
 
-You are now ready to remove the image’s background.
+When you have added your image to your canvas like below, you are now ready to remove the image’s background.  
+![importedimg](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/importedimg.png);
 
 ---
 
