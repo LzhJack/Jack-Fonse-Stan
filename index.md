@@ -63,7 +63,6 @@ The essential sections of the documentation will teach you:
 1. Filenames, and paths will be denoted as shown in the example: _`filename.psd`_
 2. Keystrokes, and mouseclicks will appear similar to the example: <kbd>Ctrl</kbd> + <kbd>S</kbd>
 3. Keywords, and other important phrases will be italicized as such: _layers_
-4. Images with redboxes will highlight important details as shown below: (Placeholder for screenshot)
 
 ---
 
@@ -83,9 +82,9 @@ The documentation will use the following symbols, and message blocks to alert th
 |:-----------------------------------------------------------------------|
 |Helpful tips or additional information for clarification.               |
 
-> ✔️ **Success**
-> 
-> Indication of what happens when task is successfully completed. **(This is what peak performance looks like!!!)**
+| ✔️ **Success**|
+|:--------------------------------------------------------------------------|
+| Indication of what happens when task is successfully completed.|
 
 
 ---
