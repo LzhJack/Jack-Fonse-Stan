@@ -23,6 +23,10 @@ In this section you will learn the use of filter and adjusting brightness of an 
 
 ---
 
+## Initialize PhotoShop
+
+1.Open AdobePhotoshop 2022 by double clicking on the [Adobe Photoshop 2022](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/PS icon.png) icon.
+
 ## Add filter to an image
 
 ```yaml
