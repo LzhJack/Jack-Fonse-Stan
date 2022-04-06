@@ -155,4 +155,4 @@ At the end of this section, you have learned:
 * How to use the Lasso tools
 * How to export images as transparent _PNG_ files
 
-Good job! You can now proceed to learning [how to animate a GIF image in Photoshop](https://lzhjack.github.io/Jack-Fonse-Stan/docs/animation.md)
+Good job! You can now proceed to learning [how to animate a GIF image in Photoshop](https://lzhjack.github.io/Jack-Fonse-Stan/docs/animation/)
