@@ -33,11 +33,15 @@ Before we edit the image, we must create a new blank file.
 1. On the top bar of photoshop, click ‘File’, then in the dropdown click ‘New’. Alternatively, you can press [Ctrl] + [N] on your keyboard. This will open the ‘New Document’ menu.  
 ![New File](/assets/images/newfile.png)
 2. The right side of the menu contains the ‘Preset Details’, you can change the name of your photoshop file on the first line under ‘Preset Details’
-3. Now you need to set the width and height of your blank file. First make sure that you have chosen your preferred unit of measurement. For this tutorial, we will use centimetres.
+3. Now you need to set the width and height of your blank file. First make sure that you have chosen your preferred unit of measurement. For this tutorial, we will use centimetres.  
+![preset](/assets/images/preset.png)
 4. To set the width and the height of your blank file, change the fields labelled width for your file’s canvas, and height for your file’s height. Any width and   height is fine as long as your image can fit inside it. For this tutorial, we will be using a 16 x 9 canvas.
-5. In order to make your image transparent later, you must click the ‘Background Contents’ field, and in the dropdown select Transparent.
+5. In order to make your image transparent later, you must click the ‘Background Contents’ field, and in the dropdown select Transparent.  
+![transparent](/assets/images/transparent.png)
 6. Finally, you can press ‘Create’ at the bottom right of the menu. You can leave the other settings as the default.
-You have now opened a new Photoshop file.
+
+If your file looks like a blank transparent canvas like the image below, you have now successfully opened a new Photoshop file.
+![blankcanvas](/assets/images/blankcanvas.png)
 
 ---
 
@@ -96,16 +100,5 @@ You have now removed the background of your image. Now you need to export it.
 5. Find a place in your computer to store the new transparent image. Give the image any filename as well. Then click ‘Save’.
 
 Success: Once the image has been saved. You can open the new transparent image or use it on your projects.
-
-```markdown
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-```
 
 The result is shown at [the top of this page](#navigation-structure) (`{:toc}` can be used only once on each page).
