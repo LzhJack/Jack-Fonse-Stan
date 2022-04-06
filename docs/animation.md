@@ -3,6 +3,7 @@ layout: default
 title: How to Create an Animation
 nav_order: 3
 ---
+# How to Create an Animation
 
 ### Overview
 
@@ -13,11 +14,6 @@ This section will walkthrough you on how to use Adobe Photoshop to create a loop
 * Web Design
 * Game Design
 
-# How to Create an Animation
-{: .no_toc }
-
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
-{: .fs-6 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }
