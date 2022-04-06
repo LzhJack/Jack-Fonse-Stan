@@ -114,10 +114,9 @@ However, there can be parts of the image that weren't selected by the Magic Wand
 
 For finer selection, you should use one of the lasso tools.
 
-1. Zoom in on the part of the image you want to select. Do this by clicking the magnifying glass icon on the toolbar.  
-![zoom](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/zoom.png)
-
-You can also press <kbd>Z</kbd>. Then repeatedly click on the area you want to zoom in to. If you need to zoom out, click while holding <kbd>Alt</kbd>.
+1. Zoom in on the part of the image you want to select. Do this by clicking the magnifying glass icon on the toolbar. You can also press <kbd>Z</kbd>.  
+![zoom](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/zoom.png)  
+Then repeatedly click on the area you want to zoom in to. If you need to zoom out, click while holding <kbd>Alt</kbd>.
 
 2. Click the 3rd tool on the toolbar resembling a lasso. This is the _Lasso_ tool. It lets you select part of the canvas by freehand.  
 ![lasso](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/lasso.png)
@@ -159,4 +158,5 @@ At the end of this section, you have learned:
 * How to use the Magic Wand tool
 * How to use the Lasso tools
 * How to export images as transparent _PNG_ files
+
 Good job! You can now proceed to learning how to animate a GIF image in Photoshop
