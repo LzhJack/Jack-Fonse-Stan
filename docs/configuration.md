@@ -18,14 +18,14 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 ---
 
-## Site logo
+## Overview
 
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
+In this section you will learn the use of filter and adjusting brightness of an image. To standardize the instructions, you will need to use Adobe Photoshop software for this practice. For beginner, these features can help you understand the effects of light, shadow and layers have on an image.
 
-## Search
+## Open 
+
+
+## Add filter to an image
 
 ```yaml
 # Enable or disable the site search
@@ -57,7 +57,7 @@ search:
   button: false
 ```
 
-## Aux links
+## Adjust brightness and sharpness of an image
 
 ```yaml
 # Aux links for the upper right navigation
@@ -69,13 +69,9 @@ aux_links:
 aux_links_new_tab: false
 ```
 
-## Heading anchor links
+## Conclusion
 
-```yaml
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
-#
-# Supports true (default) or false
-heading_anchors: true
-```
-
+By the end of this section, you will have successfully learned the following:
+✔️How to apply filters to an image
+✔️How to adjust brightness and sharpness of an image
+Good job. You can go ahead and click on Remove Background from an image.
