@@ -2,6 +2,7 @@
 layout: default
 title: Troubleshooting
 nav_order: 5
+nav_exclude: true
 ---
 
 # Search
