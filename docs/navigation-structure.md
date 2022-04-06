@@ -107,13 +107,21 @@ However, there can be parts of the image that weren't selected by the Magic Wand
 
 For finer selection, you should use one of the lasso tools.
 
-1. Zoom in on the part of the image you want to select. Do this by clicking the magnifying glass icon on the toolbar. You can also press <kbd>Z</kbd>. Then repeatedly click on the area you want to zoom in to. If you need to zoom out, click while holding <kbd>Alt</kbd>.
-2. Click the 3rd tool on the toolbar resembling a lasso. This is the _Lasso_ tool. It lets you select part of the canvas by freehand. If you right click the lasso icon, you can also select either the _Polygonal Lasso_ tool, or the _Magnetic Lasso_ tool. The Polygonal Lasso tool selects by letting you place points instead of drawing by freehand. The Magnetic Lasso tool is freehand but tries to guess the location of where you’re drawing, which is great for inaccurate drawing.
-3. Using any of these lassoes, select the part of the image to be removed. Make sure that you fully enclose the selection by clicking on the very first point placed in the selection. 
-4. After closing the selection, the moving black lines should appear again. In which case, you can delete the selection by pressing <kbd>Backspace</kbd> or <kbd>Delete</kbd> on your keyboard.
-5. Deselect the selection by clicking _Select_ at the very top of the application. Then click on _Deselect_. You can also press <kbd>Ctrl</kbd> + <kbd>D</kbd> on your keyboard.
+1. Zoom in on the part of the image you want to select. Do this by clicking the magnifying glass icon on the toolbar.  
+![zoom](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/zoom.png)
 
-You have now removed the background of your image. Now you need to export it.
+You can also press <kbd>Z</kbd>. Then repeatedly click on the area you want to zoom in to. If you need to zoom out, click while holding <kbd>Alt</kbd>.  
+2. Click the 3rd tool on the toolbar resembling a lasso. This is the _Lasso_ tool. It lets you select part of the canvas by freehand.  
+![lasso](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/lasso.png)
+If you right click the lasso icon, you can also select either the _Polygonal Lasso_ tool, or the _Magnetic Lasso_ tool. The Polygonal Lasso tool selects by letting you place points instead of drawing by freehand. The Magnetic Lasso tool is freehand but tries to guess the location of where you’re drawing, which is great for inaccurate drawing.
+
+3. Using any of these lassoes, select the part of the image to be removed. Make sure that you fully enclose the selection by clicking on the very first point placed in the selection.  
+![selected](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/selected.png)
+4. After closing the selection, the moving black lines should appear again. In which case, you can delete the selection by pressing <kbd>Backspace</kbd> or <kbd>Delete</kbd> on your keyboard.
+5. Again, deselect the selection <kbd>Ctrl</kbd> + <kbd>D</kbd>.
+
+Your image should now have a transparent background like the one below. Now you need to export it.  
+![perfectkirby](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/perfectkirby.png)
 
 ## Image exporting
 
