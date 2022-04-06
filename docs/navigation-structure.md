@@ -91,8 +91,8 @@ You can find many ways to remove an image’s background on Photoshop. However, 
 
 |⚠️ **WARNING** |
 |:-------------------------------------------------------------------------|
-|If the 4th tool doesn’t resemble a magic wand, right click on the icon and click on _Magic Wand Tool_ in the submenu.|
-|![magicwand](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/magicwand.png)|
+|If the 4th tool doesn’t resemble a magic wand, right click on the icon and click on _Magic Wand Tool_ in the submenu.  
+![magicwand](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/magicwand.png)|
 
 |ℹ️ **INFO** |
 |:-------------------------------------------------------------------------|
