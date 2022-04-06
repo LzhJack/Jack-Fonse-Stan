@@ -3,8 +3,9 @@ layout: default
 title: Removing the Background from an Image
 nav_order: 2
 ---
+# How to Remove an Image's Background
 
-# Overview
+## Overview
 
 In this section you will learn how to remove the background of an image using various selection tools. Removing an image’s background is useful for tasks such as:  
 * Displaying images on websites
