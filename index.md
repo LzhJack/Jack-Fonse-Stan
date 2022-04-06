@@ -52,8 +52,8 @@ Before proceeding with the guide, ensure you have installed the following:
 ## Procedures Overview
 
 The essential sections of the documentation will teach you:
-* [**How to remove an unwanted background from an image**](/placeholderlink)
 * [**To apply filters, and effects to an existing image**](/placeholderlink)
+* [**How to remove an unwanted background from an image**](/placeholderlink)
 * [**Animating a graphic image into a GIF (Graphics Interchange Format)**](/placeholderlink)
 
 ---
@@ -71,35 +71,17 @@ The essential sections of the documentation will teach you:
 
 The documentation will use the following symbols, and message blocks to alert the user with relevant information. Shown below are the symbols, and message blocks from most important to least:
 
-<span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-000">| **Dangers**|</span>
-|:-----------------|
-| Actions that may cause an error or result in the application crashing.|
+| ☠️ **Danger**|
+|:----------------------------------------------------------------------|
+|Actions that may cause an error or result in the application crashing. |
 
-|<span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-000"> **Dangers** </span>|
-|:-----------------|
-| Actions that may cause an error or result in the application crashing.|
+| ⚠️**Warning**|
+|:----------------------------------------------------------------------|
+|Information that cautions the user to be careful before proceeding.    |
 
-<span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-000">
-| **Dangers** |
-|:-----------------|
-| Actions that may cause an error or result in the application crashing.|
-</span>
-
-| **<div class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-000">Dangers</div>** |
-|:-----------------|
-| Actions that may cause an error or result in the application crashing.|
-
-> ☠️ **Danger**
-> 
-> Actions that may cause an error or result in the application crashing.
-
-> ⚠️**Warning**
-> 
-> Information that cautions the user to be careful before proceeding.
-
-> ℹ️ **Info**
-> 
-> Helpful tips or additional information for clarification.
+|ℹ️ **Info** |
+|:-----------------------------------------------------------------------|
+|Helpful tips or additional information for clarification.               |
 
 > ✔️ **Success**
 > 
