@@ -4,6 +4,8 @@ title: Troubleshooting
 nav_order: 5
 ---
 
+# Troubleshooting
+
 |  **Symptoms** | **Probable Cause** |   **Action**  |
 |:-------------:|:------------------:|:-------------:|
 | (Placeholder) | (Placeholder)      | (Placeholder) |
