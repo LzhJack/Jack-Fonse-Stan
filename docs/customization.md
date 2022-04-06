@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Customization
-nav_order: 6
-nav_exclude: true
+title: Glossary
+nav_order: 4
 ---
 
 # Customization
