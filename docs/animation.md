@@ -16,10 +16,16 @@ This section will walkthrough you on how to use Adobe Photoshop to create a loop
 
 
 ## Table of contents
-{: .no_toc .text-delta }
+{: .no_toc }
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
+</details>
 
 ---
 
