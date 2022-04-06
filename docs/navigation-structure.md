@@ -111,7 +111,8 @@ For finer selection, you should use one of the lasso tools.
 1. Zoom in on the part of the image you want to select. Do this by clicking the magnifying glass icon on the toolbar.  
 ![zoom](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/zoom.png)
 
-You can also press <kbd>Z</kbd>. Then repeatedly click on the area you want to zoom in to. If you need to zoom out, click while holding <kbd>Alt</kbd>.  
+You can also press <kbd>Z</kbd>. Then repeatedly click on the area you want to zoom in to. If you need to zoom out, click while holding <kbd>Alt</kbd>.
+
 2. Click the 3rd tool on the toolbar resembling a lasso. This is the _Lasso_ tool. It lets you select part of the canvas by freehand.  
 ![lasso](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/lasso.png)
 If you right click the lasso icon, you can also select either the _Polygonal Lasso_ tool, or the _Magnetic Lasso_ tool. The Polygonal Lasso tool selects by letting you place points instead of drawing by freehand. The Magnetic Lasso tool is freehand but tries to guess the location of where you’re drawing, which is great for inaccurate drawing.
