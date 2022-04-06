@@ -49,7 +49,9 @@ After clicking on the _Create_ button, a new blank page should appear that looks
 ## Importing your Images
 
 
-> ⚠️ **WARNING**: You will need a series of images that follow a sequence before proceeding.
+|⚠️ **WARNING** |
+|:-------------------------------------------------------------------------|
+|You will need a series of images that follow a sequence before proceeding.|
 
 1. In order to import your series of images for your animation. Click on _File_ > _Scripts_ > _Load Files into Stack..._
 \
@@ -61,7 +63,9 @@ After clicking on the _Create_ button, a new blank page should appear that looks
 
 3. Once you have loaded in your images, click on _Ok_
 
-> ℹ️ **INFO**: Depending on how many images you have, it may take some time to load in the images after Step 3. Don't panic!
+|ℹ️ **INFO**|
+|:--------------------------------------------------------------------|
+|Depending on how many images you have, it may take some time to load in the images after Step 3. Don't panic!|
 
 
 If successful, you should then see all your images loaded in under the **Layers** panel as shown in the image below. You are now ready to begin animating your images!
@@ -121,11 +125,10 @@ Once you are satisfied with how your animation plays out, you can export your gr
 
 6. After you are done making your necessary changes, click on the **Save..** button located below. Select a destination and name for your GIF file.
 
->✔️**SUCCESS**
->
-> Once you have saved your GIF, you can use it a variety of ways for your different projects.
-\
-![movingcat](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/donecat.gif)
+|✔️**SUCCESS**|
+|:-----------------------------------------------------|
+|Once you have saved your GIF, you can use it a variety of ways for your different projects.|
+|![movingcat](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/donecat.gif)|
 
 ## Conclusion
 
