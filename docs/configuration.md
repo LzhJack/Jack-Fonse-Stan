@@ -7,6 +7,8 @@ nav_order: 2
 # Applying Filters/Effects to an Image
 {: .no_toc }
 
+---
+
 ## Overview
 
 In this section you will learn the use of filter and adjusting brightness of an image. To standardize the instructions, you will need to use Adobe Photoshop software for this practice. For beginner, these features can help you understand the effects of light, shadow and layers have on an image.
