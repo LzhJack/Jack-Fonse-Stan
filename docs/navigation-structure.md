@@ -119,7 +119,6 @@ Then repeatedly click on the area you want to zoom in to. If you need to zoom ou
 
 2. Click the 3rd tool on the toolbar resembling a lasso. This is the _Lasso_ tool. It lets you select part of the canvas by freehand.  
 ![lasso](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/lasso.png)
-
 > ℹ️ **Info**
 > 
 > If you right click the lasso icon, you can also select either the _Polygonal Lasso_ tool, or the _Magnetic Lasso_ tool. The Polygonal Lasso tool selects by letting you place points instead of drawing by freehand. The Magnetic Lasso tool is freehand but tries to guess the location of where you’re drawing, which is great for inaccurate drawing.
