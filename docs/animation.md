@@ -51,7 +51,7 @@ After clicking on the _Create_ button, a new blank page should appear that looks
 
 |⚠️ **WARNING** |
 |:-------------------------------------------------------------------------|
-|You will need a series of images that follow a sequence before proceeding. Here is a link to some images if you wish to follow along if you don't have your own: [**Link**](https://drive.google.com/drive/folders/1FIrUfFxuE-LvBuYswP6zcDp0M6ttTrwC?usp=sharing)|
+|You will need a series of images that follow a sequence before proceeding. Here is a link to some images if you wish to follow along, but don't have your own images: [**Link**](https://drive.google.com/drive/folders/1FIrUfFxuE-LvBuYswP6zcDp0M6ttTrwC?usp=sharing)|
 
 1. In order to import your series of images for your animation. Click on _File_ > _Scripts_ > _Load Files into Stack..._
 \
@@ -92,7 +92,7 @@ If successful, you should then see all your images loaded in under the **Layers*
 
 5. To preview your animation, click on the play button on the button of the **Timeline** window.
 
-6. If you find that your animation is playing backgrounds. You can click on the menu button located in the top right corner of the **Timeline** window, and select _Reverse Frames_.
+6. If you find that your animation is playing backwards. You can click on the menu button located in the top right corner of the **Timeline** window, and select _Reverse Frames_.
 \
 ![reverse](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/reverseframes.png)
 
