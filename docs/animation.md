@@ -15,7 +15,6 @@ This section will walkthrough you on how to use Adobe Photoshop to create a loop
 * Game Design
 
 
-## Table of contents
 {: .no_toc }
 
 <details open markdown="block">
