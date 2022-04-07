@@ -11,6 +11,7 @@ nav_order: 5
 | Canvas | The workspace within Photoshop where you can edit the file contents |
 | Dither | Simulates colours not available in display of computer to give the appearnce of more colours, and detail |
 | Exporting | Transferring data in a format that can be used by other programs |
+| Frames | Series of images to create an animation |
 | GIF | Stands for Graphics Interchange Format; A file extension for animated images |
 | Importing | Transferring data into a document |
 | Lasso Tool | A tool that lets you select by freehand |
