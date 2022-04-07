@@ -9,6 +9,7 @@ nav_order: 5
 |  **Term** | **Definition** |
 |:-------------:|:------------------:|
 | Canvas | The workspace within Photoshop where you can edit the file contents |
+| Dither | Simulates colours not available in display of computer to give the appearnce of more colours, and detail |
 | Exporting | Transferring data in a format that can be used by other programs |
 | GIF | Stands for Graphics Interchange Format; A file extension for animated images |
 | Importing | Transferring data into a document |
