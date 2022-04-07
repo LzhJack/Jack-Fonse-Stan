@@ -1,8 +1,25 @@
 ---
 layout: default
 title: Glossary
-nav_order: 4
+nav_order: 5
 ---
 # Glossary
 
-**Idiot Sandwich**: That's you
+
+|  **Term** | **Definition** |
+|:-------------:|:------------------:|
+| Canvas | The workspace within Photoshop where you can edit the file contents |
+| Exporting | Transferring data in a format that can be used by other programs |
+| GIF | Stands for Graphics Interchange Format; A file extension for animated images |
+| Importing | Transferring data into a document |
+| Lasso Tool | A tool that lets you select by freehand |
+| Layer | Lets you work on independent parts of one document |
+| Magic Wand Tool | A tool that lets you select a large amount of similar pixels in a canvas |
+| Magnetic Lasso Tool | A kind of lasso tool that snaps to points where brightness varies the most |
+| Move Tool | A tool that lets you move a single element in a layer |
+| PNG | Stands for Portable Network Graphics; A file extension known for having transparent backgrounds |
+| Polygonal Lasso Tool | A kind of lasso tool that creates lines with each click instead of freehand selection |
+| Tolerance (Magic Wand Tool) | The sensitivity of the Magic Wand Tool |
+| Toolbar | A sidebar in Photoshop where all of the tools are located |
+| Zoom Tool | A tool that lets you zoom in or out of the canvas |
+
