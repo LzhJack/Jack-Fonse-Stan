@@ -107,8 +107,7 @@ You can find many ways to remove an image’s background on Photoshop. However, 
 
 |⚠️ **WARNING** |
 |:-------------------------------------------------------------------------|
-|If some parts of the image you want to keep are selected, click _Select_ at the very top of the application. Then click on _Deselect_. You can also press 
-<kbd>Ctrl</kbd> + <kbd>D</kbd>. You then have to repeat steps 3 and 4 using a lower tolerance than the one used.|
+|If some parts of the image you want to keep are selected, click _Select_ at the very top of the application, then click on _Deselect_. You can also press <kbd>Ctrl</kbd> + <kbd>D</kbd>. You then have to repeat steps 3 and 4 using a lower tolerance than the one used.|
 
 5. Delete the current selection by pressing <kbd>Backspace</kbd> or <kbd>Delete</kbd> on your keyboard.
 6. Finally, deselect the current selection.
