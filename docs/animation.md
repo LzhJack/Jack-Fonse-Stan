@@ -51,7 +51,7 @@ After clicking on the _Create_ button, a new blank page should appear that looks
 
 |⚠️ **WARNING** |
 |:-------------------------------------------------------------------------|
-|You will need a series of images that follow a sequence before proceeding. Here is a link to some images if you wish to follow along, but don't have your own images: [**Link**](https://drive.google.com/drive/folders/1FIrUfFxuE-LvBuYswP6zcDp0M6ttTrwC?usp=sharing)|
+|You will need a series of images that follow a sequence before proceeding. Here is a [**link**](https://drive.google.com/drive/folders/1FIrUfFxuE-LvBuYswP6zcDp0M6ttTrwC?usp=sharing) to some images if you wish to follow along, but don't have your own images.|
 
 1. In order to import your series of images for your animation. Click on _File_ > _Scripts_ > _Load Files into Stack..._
 \
