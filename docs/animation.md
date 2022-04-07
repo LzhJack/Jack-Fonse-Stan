@@ -138,3 +138,5 @@ At the end of this section, you have learned:
 * How to add animation frames by using your images
 * How to customize your animation
 * How to export your animation
+
+Congratulations! You have now created your first animated GIF that will be sure to impress others.
