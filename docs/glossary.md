@@ -8,7 +8,6 @@ nav_order: 5
 
 |  **Term** | **Definition** |
 |:-------------:|:------------------:|
-| 256/128 Colours | Colour mode that determines the range of colours available |
 | Canvas | The workspace within Photoshop where you can edit the file contents |
 | Dither | Simulates colours not available in display of computer to give the appearnce of more colours, and detail |
 | Exporting | Transferring data in a format that can be used by other programs |
