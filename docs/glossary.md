@@ -22,9 +22,9 @@ nav_order: 5
 | Magnetic Lasso Tool | A kind of lasso tool that snaps to points where brightness varies the most |
 | Move Tool | A tool that lets you move a single element in a layer |
 | PNG | Stands for Portable Network Graphics; A file extension known for having transparent backgrounds |
+| Polygonal Lasso Tool | A kind of lasso tool that creates lines with each click instead of freehand selection |
 | Rasterize | Turns a vector image to pixels |
 | Smart Object | A vector image that only allows non-destructive edits |
-| Polygonal Lasso Tool | A kind of lasso tool that creates lines with each click instead of freehand selection |
 | Tolerance (Magic Wand Tool) | The sensitivity of the Magic Wand Tool |
 | Toolbar | A sidebar in Photoshop where all of the tools are located |
 | Zoom Tool | A tool that lets you zoom in or out of the canvas |
