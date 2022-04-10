@@ -33,7 +33,7 @@ Before we begin using filter and adjust properties on image. We need to create a
 
 3. Once you have loaded in your images, below image is what you should expect.![Sample](https://lzhjack.github.io/Jack-Fonse-Stan/assets/images/LoadedSample.png)
 
---
+---
 
 ## Add filter to an image
 
