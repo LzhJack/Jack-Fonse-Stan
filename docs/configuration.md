@@ -73,6 +73,7 @@ Before you proceed to this step, users need to adjust their image.
 ## Conclusion
 
 By the end of this section, you will have successfully learned the following:
-✔️ How to apply filters to an image
-✔️ How to adjust brightness and sharpness of an image
+* How to apply filters to an image
+* How to adjust brightness and sharpness of an image
+
 Good job. You can go ahead and click on Remove Background from an image.
